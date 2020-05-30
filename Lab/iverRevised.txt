@@ -1,0 +1,15 @@
+country,povertyReduction,effectiveParties,partySystem
+Australia,42.16,2.38,Majoritarian
+Belgium,78.79,7.01,Proportional
+Canada,29.9,1.69,Majoritarian
+Denmark,71.54,5.04,Proportional
+Finland,69.08,5.14,Proportional
+France,57.91,2.68,Majoritarian
+Germany,46.9,3.16,Majoritarian
+Italy,42.81,4.11,Proportional
+Netherlands,66.93,3.49,Proportional
+Norway,67.17,3.09,Proportional
+Sweden,64.48,3.39,Proportional
+Switzerland,13.02,5.26,Unanimity
+United Kingdom,48.66,2.09,Majoritarian
+United States,12.1,1.95,Majoritarian
